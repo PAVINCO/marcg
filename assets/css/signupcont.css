@@ -1,0 +1,199 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+  
+body {
+    scroll-behavior: smooth;
+    position: relative;
+}
+  
+header {
+    display: flex;
+    justify-content:space-between;
+}
+  
+a.scroll-btn.btn {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: skyblue;
+}
+  
+  
+  
+.nav-item {
+   font-family: 'Ubuntu', sans-serif;
+   font-size: 19px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 18px;
+   letter-spacing: 0em;
+   text-align: left;
+   text-transform: capitalize;
+  }
+  
+.btn {
+    border-radius: 25px;
+    width: 125px;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 37px;
+    background-color: #09174B;
+    padding: 0;
+    text-transform: capitalize;
+    color: #ffffff;
+  
+}
+
+.image-section {
+    background-image: url(../images/Mask\ Group.png);
+    width: 50%;
+    background-size: cover;
+}
+
+
+
+    
+.sign-in-instruction {
+    font-family: 'Ubuntu', sans-serif;
+    color: #686868;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    
+    
+}
+    
+.icon-link {
+    border: 1px solid #1976D2;
+    border-radius: 15px;
+    width: 400px;
+}
+    
+.social-media-link {
+    text-decoration: none;
+    padding: 5px 0px 0px 60px;
+    text-transform: capitalize;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+    
+.email-para {
+    padding-left: 115px;
+    padding-bottom: 15px;
+    
+}
+    
+.email-link {
+    line-height: 20px;
+    color: #686868;
+    
+}
+
+.form-label {
+    text-transform: capitalize;
+}
+    
+#exampleInputfirstname {
+    width: 400px;
+    padding: 10px;
+    text-transform: capitalize;
+}
+    
+#exampleInputlastname {
+    width: 400px;
+    padding: 10px;
+    text-transform: capitalize;
+}
+
+.exampleInputregion {
+    width: 400px;
+    padding: 10px;
+    text-transform: capitalize; 
+}
+    
+.forgot-para {
+    margin-left: 335px;  
+}
+    
+.forgot-password {
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 14px;
+    font-weight: 400; 
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #686868;
+    
+   
+}
+
+.form-select {
+    width: 200px;
+    padding: 10px;
+    text-transform: capitalize;   
+}
+
+.form-control-1 {
+    height: 50px;
+    margin-top: 25px;
+    padding: 0px 10px;
+    border-radius: 0.5px solid #686868;
+}
+
+.form-control-2 {
+    height: 50px;
+    padding: 0px 0px;
+    border-radius: 0.5px solid #686868;
+}
+
+.form-label-2 {
+    display: flex;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#exampleinputdate {
+    width: 200px;
+    padding: 10px 15px;
+}
+
+#exampleinputgender {
+    width: 200px;
+}
+
+.form-control-2 {
+    display: flex;
+}
+
+::placeholder {
+    text-transform: capitalize;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.signupcont-btn {
+    background-color: #09174B;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px 0px 110px;
+    padding: 10px;
+    border-radius: 12px;
+ 
+}
+
+.process-btn {
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+   
+
+}

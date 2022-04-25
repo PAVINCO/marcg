@@ -1,0 +1,88 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.page-heading {
+    text-transform: capitalize;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.header-link {
+    text-decoration: none;
+    color: #4B506D;
+    text-transform: capitalize;
+    font-family: 'Mulish', sans-serif;
+
+}
+
+.list-space {
+    justify-content: space-between;
+}
+
+.list-heading{
+    text-transform: capitalize;
+    font-family: 'Mulish', sans-serif;  
+}
+
+.list-heading-2 {
+    margin-left: 60px;
+}
+
+.list-item {
+    padding-right: 100px;
+    text-transform: capitalize;
+    font-family: 'Mulish', sans-serif;
+}
+
+.userdata {
+    width: 800px;
+    justify-content: space-between;
+
+}
+
+.userprofile {
+    display: flex;
+    align-items: center;
+}
+
+.username-heading {
+    font-size: 15px;
+    font-family: 'Mulish', sans-serif;
+    text-transform: capitalize;
+    font-weight: 600;
+
+}
+
+.user-information {
+    font-size: 12px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    line-height: 14px;
+    text-transform: capitalize;
+}
+
+.user-img {
+    width: 50px;
+    margin-right: 20px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+
+.follow-link {
+    background-color: #09174B; 
+    padding: 10px 50px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.profile-section {
+    padding: 10px 0px 0px 320px;
+}

@@ -1,0 +1,239 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.feature {
+    margin-top: 25px;
+}
+
+.img {
+    width: 30px;
+    margin-right: 25px;
+}
+
+.sidebar {
+    background-color:  #EEEEEE;
+    height: 90vh;
+
+    
+}
+
+.list {
+    list-style: none;
+}
+
+.offcanvas-body,
+.offcanvas-header {
+    background-color: #EEEEEE;  
+}
+
+
+.search-bar {
+    background-color: #EEEEEE;
+
+}
+
+.feature-name {
+    font-size: 14px;
+    font-weight: 400;
+    color: #686868;
+    text-transform: capitalize;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 10px;
+}
+
+#exampledropdowm {
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.38px;
+    color: #464646;
+    text-transform: capitalize;
+    border: 1px solid #C4C4C4;
+    line-height: 10px;
+    padding: 5px;
+
+}
+
+.dropdown-item {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.38px;
+    color: #464646;
+    text-transform: capitalize;  
+}
+
+#examplesearch {
+    border-radius: 20px;
+    line-height: 15px;
+
+
+}
+
+.profile-icon {
+ display: flex;
+ width: 80px;
+}
+
+.profile-img {
+    border-radius: 23px;
+}
+
+.account-picture {
+    border-radius: 25px;
+}
+
+.main-poll {
+    background-color: #EEEEEE;   
+}
+
+.poll {
+    background-color: #EEEEEE; 
+    margin-top: 15px; 
+}
+
+.poll-img {
+    border-radius: 25px;
+}
+
+.profile-name {
+    color: #464646;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.username {
+    color: #686868;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-weight: 400;  
+}
+
+.days-active {
+    color: #686868;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-weight: 400;   
+}
+
+.topic {
+    color: #686868;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-weight: 400; 
+ 
+}  
+
+.poll-wrapper {
+    margin-left: 70px;
+}
+
+#checkbox {
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+.page-heading {
+    color:  #464646;
+    text-transform: capitalize;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 24px 0px 30px 35px ;
+
+}
+
+.blue-space {
+    background-color:  #09174B;
+    
+}
+
+.user-profile {
+    background-color: #EEEEEE80;
+
+}
+
+.user-picture {
+    border-radius: 25px;
+}
+
+.account-name {
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: 'Ubuntu', sans-serif; 
+  color:  #464646;
+  text-transform: capitalize;
+}
+
+.user-details {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Ubuntu', sans-serif; 
+    text-transform: capitalize;
+    color: #000000;  
+}
+
+.poll-details {
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Ubuntu', sans-serif; 
+    text-transform: capitalize;
+    color: #000000;   
+}
+
+.edit {
+    border: 1px solid #09174B ;
+    width: 200px;
+    border-radius: 15px;
+    
+}
+
+.edit-link {
+    text-decoration: none;
+    text-transform: capitalize;
+    color:  #09174B;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Ubuntu', sans-serif; 
+}
+
+.poll-section  {
+    background-color: #EEEEEE80;
+}
+
+.poll-types {
+    color: #464646;
+    text-transform: capitalize;
+    color: #464646;
+    font-family: 'Ubuntu', sans-serif; 
+
+}
+
+.poll-selectors {
+    width: 250px;
+    border: 1px solid #1E79A1;
+    border-radius: 25px;
+}
+
+.poll-selector-links {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    
+
+}
+
+
