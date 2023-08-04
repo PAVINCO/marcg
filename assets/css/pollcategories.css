@@ -236,4 +236,12 @@
 
 }
 
+@media screen and (max-width:768px) {
+    .main-poll {
+     margin-left: 0px;
+     margin-right: 0px;
+    
+    } 
+
+}
 

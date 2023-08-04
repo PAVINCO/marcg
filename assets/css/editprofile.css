@@ -259,52 +259,10 @@
 }
 
 .form-action-area {
-    ;
+ 
 }
 
-#firstname{
-    border-radius: 10px;
-    border-color: #686868;
-    
-}
 
-#lastname {
-    border-radius: 10px;
-    border-color: #686868;
-}
-
-#email {
-    border-radius: 10px;
-    border-color: #686868;
-    
-}
-
-#religion {
-    border-radius: 10px;
-    border-color: #686868;
-    
-}
-
-#phonenumber {
-    border-radius: 10px;
-    border-color: #686868;
-
-}
-
-#telephone {
-    border-radius: 10px;
-    border-color: #686868;
-} 
-
-#gender {
-    border-radius: 10px;
-    border-color: #686868;
-    
-}
-#dob {
-    border-radius: 10px;
-    border-color: #686868;
-}
 
 
 /* background: rgba(238, 238, 238, 0.5);

@@ -9,6 +9,9 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+.header-icon{
+ padding: 0px 24px 0px 0px;
+} 
 
 .header-link {
     text-decoration: none;
@@ -84,5 +87,57 @@ img {
 }
 
 .profile-section {
-    padding: 10px 0px 0px 320px;
+    padding: 2px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:768px) {
+
+    .userdata {
+        width: 500px;
+        justify-content: space-between;
+    
+    }
+
+    
+}
+ 
+
+
+
+@media screen and (max-width: 500px) {
+    .profile-section {
+        padding: 0px 0px 0px 0px;
+    }  
+
+    .username-heading {
+        font-size: 10px;
+        
+    }
+
+    .userdata {
+        width: 362px;
+    }
+
+    .follow-link {
+        padding: 10px 12px;
+    }
+
+    header {
+        justify-content: space-between;
+    }
+
+    .header-icon {
+        padding-right: 0px 12px 0px 0px;
+    }
+
+    .list-item {
+        padding-right: 40px;
+    }
 }

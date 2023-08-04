@@ -103,3 +103,29 @@ a.scroll-btn.btn {
     text-decoration: none;
 
 }
+
+@media screen and (max-width:768px) {
+    .image-section {
+        display: none;
+    }
+
+    .sign-section {
+        display: flex;
+        justify-content: center;
+    }
+
+    .proceed-btn {
+        width: 150px;
+        align-self: center;
+        justify-self: center    ;
+    }
+
+}
+
+@media screen and (max-width:500px) {
+    .form-control {
+        width: 250px;  
+    }       
+} 
+
+
